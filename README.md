@@ -1,4 +1,4 @@
-Hi 👋 My name is abdullah hamitoğlu
+Hi 👋 My name is abdullah alhammad
 ===================================
 
 Web Frontend developer
