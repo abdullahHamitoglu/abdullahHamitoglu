@@ -90,7 +90,7 @@ Creative **Full Stack Developer** with **5+ years of experience** building high-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahHamitoglu&theme=github_dark" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullahHamitoglu&theme=github_dark" width="32%" />
-  <img src="https://streak-stats.demolab.com/?user=abdullahHamitoglu&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" width="32%" />
+  
 </div>
 
 ---
