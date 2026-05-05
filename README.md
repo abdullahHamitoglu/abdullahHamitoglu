@@ -38,12 +38,13 @@ Creative **Full Stack Developer** with **5+ years of experience** building high-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahHamitoglu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahHamitoglu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahHamitoglu&theme=github_dark" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahHamitoglu&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahHamitoglu&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullahHamitoglu&theme=github_dark" width="32%" />
+  <img src="https://streak-stats.demolab.com/?user=abdullahHamitoglu&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" width="32%" />
 </div>
 
 ---
